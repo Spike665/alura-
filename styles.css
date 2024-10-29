@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px
+}
+
+header {
+    border-bottom: solid 4px pink;
+    color: pink
+}
